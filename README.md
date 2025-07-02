@@ -48,6 +48,9 @@ Task-05
 * Uses pre-trained VGG19 from TensorFlow
 * Outputs high-quality stylized image
 
+Example Results
+<table> <tr> <th>Content Image</th> <th>Style Image</th> <th>Stylized Output</th> </tr> <tr> <td><img src="https://github.com/Parth-349/PRODIGY_GA_05/blob/main/mohamed-jamil-latrach-WIrWXyYhq94-unsplash.jpg?raw=true" width="250"/></td> <td><img src="https://github.com/Parth-349/PRODIGY_GA_05/blob/main/The_Great_Wave_off_Kanagawa.jpg?raw=true" width="250"/></td> <td><img src="https://github.com/Parth-349/PRODIGY_GA_05/blob/main/stylized_image.png?raw=true" width="250"/></td> </tr> </table>
+
 ## References
 
 * TensorFlow Neural Style Transfer Tutorial: [https://www.tensorflow.org/tutorials/generative/style\_transfer](https://www.tensorflow.org/tutorials/generative/style_transfer)

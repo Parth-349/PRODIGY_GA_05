@@ -49,7 +49,7 @@ Task-05
 * Outputs high-quality stylized image
 
 Example Results
-<table> <tr> <th>Content Image</th> <th>Style Image</th> <th>Stylized Output</th> </tr> <tr> <td><img src="https://github.com/Parth-349/PRODIGY_GA_05/blob/main/mohamed-jamil-latrach-WIrWXyYhq94-unsplash.jpg?raw=true" width="250"/></td> <td><img src="https://github.com/Parth-349/PRODIGY_GA_05/blob/main/The_Great_Wave_off_Kanagawa.jpg?raw=true" width="250"/></td> <td><img src="https://github.com/Parth-349/PRODIGY_GA_05/blob/main/stylized_image.png?raw=true" width="250"/></td> </tr> </table>
+<table> <tr> <th>Content Image</th> <th>Style Image</th> <th>Stylized Output</th> </tr> <tr> <td><img src="https://github.com/Parth-349/PRODIGY_GA_05/blob/main/Content image.jpg?raw=true" width="250"/></td> <td><img src="https://github.com/Parth-349/PRODIGY_GA_05/blob/main/Style image.jpg?raw=true" width="250"/></td> <td><img src="https://github.com/Parth-349/PRODIGY_GA_05/blob/main/stylized_output image.png?raw=true" width="250"/></td> </tr> </table>
 
 ## References
 

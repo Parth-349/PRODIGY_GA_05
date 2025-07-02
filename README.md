@@ -26,8 +26,10 @@ The output is a new image that preserves the content while adopting the artistic
 Task-05
 
 ├── GA_05_Neural_Style_Transfer.ipynbr.ipynb — Colab-compatible notebook   
-├── GA_05_Output.ipynb — Output  
-├── stylized\_image.png — Output image    
+├── GA_05_Output.ipynb — Output
+├── Content image.png — content image
+├── Style image.png — style image
+├── stylized_Output image.png — Output image  
 └── README.md   
 
 ## How to Run the Project

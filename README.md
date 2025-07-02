@@ -27,6 +27,8 @@ Task-05/
 
 ├── GA_05_Neural_Style_Transfer.ipynbr.ipynb — Colab-compatible notebook
 
+├── GA_05_Output.ipynb — Output
+
 ├── stylized\_image.png — Output image 
 
 └── README.md 
